@@ -1,0 +1,37 @@
+- ¿Qué tipo de monedas acepta?
+
+ Monedas entre 1 centimo hasta las de 2 euros
+- ¿Qué pasaría si la máquina se queda sin cambio?
+
+ Se avisara a la central con una señal 3G o 4G  cuando se este quedando sin monedas. 
+Y si llegara a quedarse sin cambio lo avisaria por la pantalla LCD.
+- Si el cliente inserta el dinero y se equivoca de número o no hay disponibilidad de ese producto, ¿qué haría la máquina?
+
+ Si no hay disponibilidad se dara la opcion de devolver el dinero o de eligir otro producto. 
+Si el cliente se equivoca se le dara el producto seleccionado, es decir, 
+ una vez seleccionado un objeto no se puede cambiar de opción. 
+- Se habla de múltiples formas de pago pero ¿acepta billetes y tarjetas de crédito?
+ Acepta tarjetas de creditos y billetes 
+ 
+- En caso afirmativo, que billetes? 
+
+ Desde 5 euros hasta 20 euros.
+- Si la máquina aceptara billetes, ¿el cambio se podría dar en billetes?
+
+ No se puede dar el cambio en billetes.
+- ¿A que temperatura está la máquina?
+
+ A 5º C, pero tendra un regulador con el que podra cambiar la temperatura el tecnico.
+- ¿Cómo se enfrenta la máquina a una alta temperatura exterior?
+
+ Esta siempre a 5º C en el interior.
+- ¿A qué altura se situará el teclado, estará adaptado para niños pequeños o discapacitados?
+
+  Altura a un metro el teclado y estara adaptado para los niños pequeños y discapacitados.
+- ¿Si la máquina sufre un atasco se bloquearía o seguiría funcionando normalmente?
+
+ Se bloquearia para evitar otros errores y enviaria una señal a la central.
+- ¿De qué forma podrá el usuario coger el ítem solicitado?
+
+ Abriendo una bandeja donde estara el producto seleccionado.
+

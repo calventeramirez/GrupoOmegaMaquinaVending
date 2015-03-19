@@ -1,0 +1,11 @@
+- ¿Qué tipo de monedas acepta?
+- ¿Qué pasaría si la máquina se queda sin cambio?
+- Si el cliente inserta el dinero y se equivoca de número o no hay disponibilidad de ese producto, ¿qué haría la máquina?
+- Se habla de múltiples formas de pago pero ¿acepta billetes y tarjetas de crédito?
+- En caso afirmativo, que billetes? 
+- Si la máquina aceptara billetes, ¿el cambio se podría dar en billetes?
+- ¿A que temperatura está la máquina?
+- ¿Cómo se enfrenta la máquina a una alta temperatura exterior?
+- ¿A qué altura se situará el teclado, estará adaptado para niños pequeños o discapacitados?
+- ¿Si la máquina sufre un atasco se bloquearía o seguiría funcionando normalmente?
+- ¿De qué forma podrá el usuario coger el ítem solicitado?
