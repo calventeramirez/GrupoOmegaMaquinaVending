@@ -1,3 +1,4 @@
+La maquina vendera Snacks, refrescos, Sandwich, etc.
 La máquina de vending proporcionará los productos mediante un brazo, el cual cogerá el producto seleccionado 
 y lo depositará en una bandeja que quedará a disposición del usuario por un breve instante.
 Según el producto almacenado en cada módulo, el brazo se moverá a su posición y lo dispensará.
