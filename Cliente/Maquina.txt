@@ -15,3 +15,15 @@ En el caso de que la cantidad de un producto esté próxima a agotarse o esté ya a
 la central para avisar del producto en concreto y de las existencias en caso de que las haya.
 La máquina también mandará una señal en el caso de que detecte un error y no funcione correctamente y en caso de que
 la cantidad de dinero dentro de ella sea la máxima permitida.
+
+Aceptara monedas entre 1 centimo y 2 euros y billetes desde 5 euros hasta 20 euros. Tambien aceptara tarjeta de debito/credito. 
+Y el cambio nunca se dara en billetes.
+Se avisara por 3G o 4G si se queda un producto atascado o se queda sin cambio.
+En caso de que no hubiera disponibilidad del producto deseado se le dara opcion de elegir otro producto o devolverle el dinero.
+
+La temperatura de la maquina se mantendra estable en torno a unos 5ºC, aunque dispondra de un regulador que un tecnico podra
+regular en caso necesario. 
+
+Dimensiones: 1.80mx0.9mx0.80m
+La maquina tendra 6 baldas y en cada balda 5 objetos.
+La altura del teclado sera de unos 90 cm de altura.

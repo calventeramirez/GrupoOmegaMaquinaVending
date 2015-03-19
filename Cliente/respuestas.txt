@@ -27,7 +27,7 @@ Si el cliente se equivoca se le dara el producto seleccionado, es decir,
  Esta siempre a 5º C en el interior.
 - ¿A qué altura se situará el teclado, estará adaptado para niños pequeños o discapacitados?
 
-  Altura a un metro el teclado y estara adaptado para los niños pequeños y discapacitados.
+  Altura a unos 90 cm el teclado y estara adaptado para los niños pequeños y discapacitados.
 - ¿Si la máquina sufre un atasco se bloquearía o seguiría funcionando normalmente?
 
  Se bloquearia para evitar otros errores y enviaria una señal a la central.
