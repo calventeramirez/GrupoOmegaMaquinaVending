@@ -1,0 +1,10 @@
+Glosario de terminos:
+
+- Snack: Diversos productos comestibles, como por ejemplo:
+      .Chocolatinas
+      .Patatas Fritas
+      .Galletas
+      .etc
+-Refresco: Latas de 33cl y botellas de 50cl.
+-Sandwich: De todo tipo con unos medidas del paquete de unos 20cmx12cmx8cm
+-NFC(Near Field Communication): Metodo de pago de corto alcance y sin cables.
